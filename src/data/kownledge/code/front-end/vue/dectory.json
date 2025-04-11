@@ -1,0 +1,25 @@
+{
+    "name": "目录",
+    "list": [
+        {
+            "name": "Vue基础概念",
+            "content": "Vue实例、生命周期、模板语法、计算属性、侦听器"
+        },
+        {
+            "name": "组件开发",
+            "content": "组件注册、Props传递、事件处理、插槽使用、组件通信"
+        },
+        {
+            "name": "路由管理",
+            "content": "Vue Router配置、路由导航、路由守卫、动态路由、嵌套路由"
+        },
+        {
+            "name": "状态管理",
+            "content": "Vuex概念、State、Mutations、Actions、Getters、模块化"
+        },
+        {
+            "name": "高级特性",
+            "content": "混入、自定义指令、渲染函数、过渡动画、组合式API"
+        }
+    ]
+}
